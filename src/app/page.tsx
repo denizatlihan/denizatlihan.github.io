@@ -6,7 +6,7 @@ import BlogPosts from '../../pages/BlogPosts'
 export default function Home() {
   return (
     <div>
-      <h1 style={{ margin: 64 }}>Deniz\'s Personal Web Page</h1>
+      <h1 style={{ margin: 64 }}>Personal Web Page of denizatlihan</h1>
       <Grid container spacing={0} style={{ margin: 64 }}>
         <Grid xs={12}>
           <h1>Latest Projects</h1>
